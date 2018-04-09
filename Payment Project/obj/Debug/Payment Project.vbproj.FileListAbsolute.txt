@@ -1,0 +1,11 @@
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.exe.config
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.exe
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.pdb
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.xml
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.vbprojResolveAssemblyReference.cache
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment_Project.frmMain.resources
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment_Project.Resources.resources
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.GenerateResource.Cache
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.exe
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.xml
+C:\Users\alearcos\Desktop\CCC Course\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.pdb
